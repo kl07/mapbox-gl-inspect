@@ -28,7 +28,7 @@
   "homepage": "https://github.com/lukasmartinelli/mapbox-gl-inspect#readme",
   "dependencies": {
     "lodash.isequal": "^4.4.0",
-    "randomcolor": "^0.4.4"
+    "randomcolor": "^0.6.2"
   },
   "devDependencies": {
     "browserify": "^11.2.0",
